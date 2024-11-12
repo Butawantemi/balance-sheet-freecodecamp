@@ -128,4 +128,8 @@ tr.total:hover {
 
 td.current {
     font-style: Italic;
-  }
+}
+
+tr.data {
+    background-image: linear-gradient(to bottom, #dfdfe2 1.845rem, white 1.845rem);
+}
